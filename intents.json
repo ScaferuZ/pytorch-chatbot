@@ -1,0 +1,132 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day"
+      ],
+      "responses": [
+        "Hello, thanks for visiting",
+        "Good to see you again",
+        "Hi there, how can I help?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you later", "Goodbye"],
+      "responses": [
+        "See you later, thanks for visiting",
+        "Have a nice day",
+        "Bye! Come back again soon."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "That's helpful"],
+      "responses": ["Happy to help!", "Any time!", "My pleasure"]
+    },
+    {
+      "tag": "health",
+      "patterns": ["How are you", "How is your health", "How is your day"],
+      "responses": ["I am fine", "I am good", "I am doing great"]
+    },
+    {
+      "tag": "questions",
+      "patterns": [
+        "What is mental health?",
+        "What is mental illness?",
+        "What is mental disorder?",
+        "What is mental health disorder?",
+        "What is mental health illness?",
+        "What is mental health problem?",
+        "What is mental health issue?",
+        "What is mental health condition?",
+        "What is mental health disease?",
+        "What is mental health syndrome?",
+        "What is mental health sickness?",
+        "What is mental health ailment?",
+        "What is mental health complaint?",
+        "What is mental health upset?",
+        "What is mental health trouble?",
+        "What is mental health worry?",
+        "What is mental health anxiety?",
+        "What is mental health stress?",
+        "What is mental health tension?",
+        "What is mental health pressure?",
+        "What is mental health strain?",
+        "What is mental health burden?",
+        "What is mental health load?",
+        "What is mental health weight?",
+        "What is mental health responsibility?",
+        "What is mental health obligation?",
+        "What is mental health duty?",
+        "What is mental health task?",
+        "What is mental health job?",
+        "What is mental health chore?",
+        "What is mental health assignment?",
+        "What is mental health function?",
+        "What is mental health role?",
+        "What is mental health purpose?",
+        "What is mental health occupation?",
+        "What is mental health profession?",
+        "What is mental health career?",
+        "What is mental health vocation?",
+        "What is mental health calling?",
+        "What is mental health business?",
+        "What is mental health employment?",
+        "What is mental health position?",
+        "What is mental health trade?",
+        "What is mental health craft?",
+        "What is mental health skill?",
+        "What is mental health art?",
+        "What is mental health ability?",
+        "What is mental health talent?",
+        "What is mental health gift?",
+        "What is mental health knack?",
+        "What is mental health flair?",
+        "What is mental health aptitude?",
+        "What is mental health bent?",
+        "What is mental health genius?",
+        "What is mental health capacity?",
+        "What is mental health faculty?",
+        "What is mental health competence?",
+        "What is mental health capability?",
+        "What is mental health power?",
+        "What is mental health potential?",
+        "What is mental health potentiality?",
+        "What is mental health aptness?",
+        "What is mental health proficiency?",
+        "What is mental health dexterity?",
+        "What is mental health expertise?",
+        "What is mental health mastery?",
+        "What is mental health accomplishment?",
+        "What is mental health achievement?",
+        "What is mental health attainment?",
+        "What is mental health success?",
+        "What is mental health triumph?",
+        "What is mental health"
+      ],
+      "responses": [
+        "Mental health includes our emotional, psychological, and social well-being. It affects how we think, feel, and act. It also helps determine how we handle stress, relate to others, and make choices. Mental health is important at every stage of life, from childhood and adolescence through adulthood."
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you later", "Goodbye"],
+      "responses": [
+        "See you later, thanks for visiting",
+        "Have a nice day",
+        "Bye! Come back again soon."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "That's helpful"],
+      "responses": ["Happy to help!", "Any time!", "My pleasure"]
+    }
+  ]
+}
